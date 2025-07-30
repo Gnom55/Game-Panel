@@ -1,0 +1,2 @@
+Process game = Process.Start("game.exe");
+Injector.InjectDLL(game.Id, "ModMenu.dll");

@@ -1,0 +1,9 @@
+{
+  "GodMode": true,
+  "InfiniteAmmo": true,
+  "SpeedHack": 2.0,
+  "Hotkeys": {
+    "Teleport": "F1",
+    "Heal": "F2"
+  }
+}
